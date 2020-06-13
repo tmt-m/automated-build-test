@@ -1,2 +1,2 @@
 FROM dockersample/static-site
-ENV AUTHOR="M Tomita"
+ENV AUTHOR="m Tomita"
